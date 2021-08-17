@@ -60,11 +60,3 @@ body{background-color:#9b979580;line-height:1.2;color:rgba(255, 255, 255, 0.69);
 
 
 
-.barblue {
-    position: relative;
-    width: 100%;
-    margin: 0 auto;
-    padding-top: 30px;
-    padding-bottom: 1px;
-    background: #fff;
-}
